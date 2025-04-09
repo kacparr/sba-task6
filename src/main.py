@@ -1,3 +1,3 @@
 def hello_world():
-    print("Hello, world!") # Fixed indentation
+    print("Hello!") # Fixed indentation
 hello_world()
